@@ -7,7 +7,7 @@
 1. Create a Visual recognition Watson Studio project
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/project.png">
 2. Get the image dataset from this kaggle link: https://www.kaggle.com/c/state-farm-distracted-driver-detection
-3. Drag and drop the 1 zip folder to train the model. Once thats done you will see all the 10 classes of distraction including one negative class (c0- safe driver) 
+</br>3. Drag and drop the 1 zip folder to train the model. Once thats done you will see all the 10 classes of distraction including one negative class (c0- safe driver) 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/visual.png">
 4. Send the data for train and wait for the results
 
