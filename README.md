@@ -29,10 +29,11 @@ A simple dashboard is created to see how varied is the image dataset. This dashb
 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/dashboard.png">
 
-## Android Application 
+### Model Integration - Android Application 
+To use the visual recognition model created, we would require a front end. This is a sample application created to demonstrate the model integration capabilities of Watson Studio visual recognition models.
 
 #### Steps: 
-1. Download the Android project 
+1. Download the Android project (https://github.com/anchalbhalla/detecting-distracted-driver-cloud/)
 2. Edit the visual recognition credentials in the values/strings.xml file 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/api-key.png">
 3. Edit the model id in the MainActivity.java file 
