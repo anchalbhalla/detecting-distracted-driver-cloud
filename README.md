@@ -23,8 +23,9 @@ We will first start off by creating the service on Watson Studio and building th
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/visual.png">
 4. Send the data for train and wait for the results
 
-## Dashboard 
-A simple dashboard to see how varied is the image dataset. This dashboard was created using Cognos Dashboards. 
+### Dashboarding to check class imbalance (Optional)
+One main problem in data science is class imbalance. Class imbalance occurs when the data in each class of the model does not have an equal number of examples for training. This can make lower the model accuracy and give wrong results.
+A simple dashboard is created to see how varied is the image dataset. This dashboard was created using Cognos Dashboards. 
 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/dashboard.png">
 
@@ -37,5 +38,5 @@ A simple dashboard to see how varied is the image dataset. This dashboard was cr
 3. Edit the model id in the MainActivity.java file 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/model-id.png"> 
 
-### Demo of the application in action
+## Demo of the application in action
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/app-demo.gif">
