@@ -1,6 +1,14 @@
-# Detecting Distracted Drivers on the roads using Visual recognition on Android
+# Learn how to build a driver distration application using Visual Recognition on Watson Studio
 
-## Visual Recognition using Watson Studio 
+## Introduction
+Each day in the United States, approximately 9 people are killed and more than 1,000 injured in crashes that are caused becasue the driver was distracted (cdc.gov/motorvehiclesafety/distracted_driving/). This is an alarming number of accidents for any country and a prevention method must be used.
+
+
+## What is Watson Studio
+
+## How to create the application
+
+### Visual Recognition using Watson Studio 
 
 #### Steps: 
 
