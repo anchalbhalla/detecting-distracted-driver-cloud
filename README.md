@@ -40,4 +40,8 @@ To use the visual recognition model created, we would require a front end. This 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/model-id.png"> 
 
 ## Demo of the application in action
-<img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/app-demo.gif">
+<img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/app-demo.gif"> 
+
+## Full demo video 
+You may watch the video below to understand how Watson Studio on Cloud is used to build this project. 
+https://ibm.ent.box.com/file/485665829979
