@@ -6,7 +6,7 @@ AI can be a solution to this problem. The government can install IOT cameras aro
 
 
 ## What is Watson Studio
-IBM Watson Studio is a full suite of data science tools that can be used by any citizen data scientist to implement their AI project with minimal coding. The tool includes tools such as Data Refinery for data preparation to tools like SPSS modeler to create a machine learning model without any code. In this blog we will be using the Visual Recognition service and see how to create a image classifier within 30 mintues without any code. 
+IBM Watson Studio is a full suite of data science tools that can be used by any citizen data scientist to implement their AI project with minimal coding. The tool includes tools such as Data Refinery for data preparation to tools like SPSS modeler to create a machine learning model without any code. In this blog we will be using the Visual Recognition service and see how to create an image classifier within 30 mintues without any code. 
 
 
 ## How to create the application 
