@@ -44,4 +44,4 @@ To use the visual recognition model created, we would require a front end. This 
 
 ## Full demo video 
 You may watch the video below to understand how Watson Studio on Cloud is used to build this project. 
-https://ibm.ent.box.com/file/485665829979
+https://ibm.box.com/s/chv0dl9in4ec2r72p4kex9ofqz5tppf8
