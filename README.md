@@ -21,10 +21,10 @@ We will first start off by creating the service on Watson Studio and building th
 2. Get the image dataset from this kaggle link: https://www.kaggle.com/c/state-farm-distracted-driver-detection
 </br>3. Drag and drop the zip folder to train the model. Once thats done you will see all the 10 classes of distraction including one negative class (c0- safe driver) 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/visual.png">
-4. Send the data for train and wait for the results
+4. Send the data for training and wait for the results
 
 ### Dashboarding to check class imbalance (Optional)
-One main problem in data science is class imbalance. Class imbalance occurs when the data in each class of the model does not have an equal number of examples for training. This can make lower the model accuracy and give wrong results.
+One main problem in data science is class imbalance. Class imbalance occurs when the data in each class of the model does not have an equal number of examples for training. This can lower the model accuracy and give wrong results.
 A simple dashboard is created to see how varied is the image dataset. This dashboard was created using Cognos Dashboards. 
 
 <img src = "https://github.com/anchalbhalla/detecting-distracted-driver-cloud/blob/master/images-gifs/dashboard.png">
